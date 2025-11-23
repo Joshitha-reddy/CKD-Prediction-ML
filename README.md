@@ -1,0 +1,1 @@
+A machine learning project focused on early prediction of Chronic Kidney Disease (CKD) using patient medical attributes. Implements data cleaning, exploratory data analysis, feature engineering, and multiple classification models to achieve accurate and reliable predictions. Includes visualizations, evaluation metrics, and a Jupyter Notebook for reproducibility.
